@@ -2,6 +2,9 @@
 
 ### example
 
+
+https://wtools.io/convert-php-array-to-json
+
 ```
 [
 	"name" => "Egypt",
